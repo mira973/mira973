@@ -1,0 +1,22 @@
+<svg width="460" height="210" viewBox="0 0 460 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+    .blink { animation: blink 1.25s steps(1) infinite; }
+    @keyframes blink { 0%,48% { opacity:1; } 49%,100% { opacity:.2; } }
+  </style>
+  <rect x="1" y="1" width="458" height="208" rx="18" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="2"/>
+  <text x="28" y="42" class="mono" font-size="22" font-weight="700" fill="#24292F">Secure Messenger</text>
+  <circle cx="375" cy="35" r="5" fill="#8C959F" class="blink"/>
+  <text x="389" y="41" class="mono" font-size="12" fill="#57606A">SOON</text>
+
+  <path d="M82 83H207C218.046 83 227 91.9543 227 103V122C227 133.046 218.046 142 207 142H136L115 160V142H82C70.9543 142 62 133.046 62 122V103C62 91.9543 70.9543 83 82 83Z" fill="#F6F8FA" stroke="#D0D7DE"/>
+  <circle cx="100" cy="113" r="5" fill="#0969DA"/>
+  <circle cx="119" cy="113" r="5" fill="#0969DA" opacity=".65"/>
+  <circle cx="138" cy="113" r="5" fill="#0969DA" opacity=".35"/>
+
+  <path d="M253 95H369C380.046 95 389 103.954 389 115V132C389 143.046 380.046 152 369 152H326L306 169V152H253C241.954 152 233 143.046 233 132V115C233 103.954 241.954 95 253 95Z" fill="#F6F8FA" stroke="#D0D7DE"/>
+  <path d="M270 119H350" stroke="#8250DF" stroke-width="2" stroke-linecap="round"/>
+  <path d="M270 131H326" stroke="#8250DF" stroke-width="2" stroke-linecap="round" opacity=".55"/>
+
+  <text x="30" y="185" class="mono" font-size="14" fill="#57606A">realtime · auth · PostgreSQL · security</text>
+</svg>
