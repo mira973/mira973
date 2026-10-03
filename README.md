@@ -1,63 +1,64 @@
 <div align="center">
 
-# `mira973`
+# mira973
 
-### Frontend Developer → Software Engineering
+### Frontend Developer · Intern · Student at Hexlet College
 
-Building real projects, learning architecture, and turning ideas into working software.
+Building software, learning architecture and gradually moving deeper into Software Engineering.
 
 </div>
 
 <br>
 
-<pre>
+```text
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
 │  mira973@github:~$ whoami                                        │
 │                                                                  │
 │  Miroslav                                                        │
-│  Frontend Developer → Software Engineering                       │
-│                                                                  │
-│  > status                                                        │
-│    learning / building / refactoring / shipping                  │
+│  Frontend Developer / Intern                                     │
+│  Student at Hexlet College                                       │
 │                                                                  │
 │  > focus                                                         │
 │    architecture · full-stack · realtime · networking             │
 │                                                                  │
+│  > status                                                        │
+│    learning · building · debugging · shipping                    │
+│                                                                  │
 └──────────────────────────────────────────────────────────────────┘
-</pre>
+```
 
 <br>
 
-## `$ currently_building`
+## Currently building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ P2P AirDrop
+### P2P AirDrop
 
 Peer-to-peer file transfer between devices.
 
-**Currently exploring:**
+**Focus**
 
-`WebRTC` `Signaling` `QR sessions` `P2P`
+`WebRTC` `Signaling` `QR Sessions` `P2P`
 
-The goal is to transfer files directly between devices with as little server-side logic as possible.
+Building a simple way to transfer files directly between devices with minimal server-side logic.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔐 Secure Messenger
+### Secure Messenger
 
-A realtime messenger focused on architecture and backend practice.
+Realtime messaging application focused on architecture and backend development.
 
-**Planned focus:**
+**Focus**
 
 `Realtime` `Auth` `PostgreSQL` `Security`
 
-Built as a deeper dive into databases, communication between clients, authentication and application architecture.
+Exploring databases, authentication, realtime communication and application architecture.
 
 </td>
 </tr>
@@ -65,28 +66,7 @@ Built as a deeper dive into databases, communication between clients, authentica
 
 <br>
 
-## `$ featured_project`
-
-### 🛒 ProductShop
-
-Mobile grocery store built with React Native and TypeScript.
-
-- product catalog and categories
-- search and filtering
-- cart state management
-- forms and validation
-- custom navigation
-- optimized lists and components
-
-**Stack**
-
-`React Native` `Expo` `TypeScript` `React Hook Form` `Zod`
-
-[→ View repository](https://github.com/mira973/ProductShop-pet)
-
-<br>
-
-## `$ stack --list`
+## Tech stack
 
 <div align="center">
 
@@ -99,38 +79,35 @@ Mobile grocery store built with React Native and TypeScript.
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
 
-### Tools & Backend
+### Development
 
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
 ![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite)
-![npm](https://img.shields.io/badge/npm-111111?style=for-the-badge&logo=npm)
+![Expo](https://img.shields.io/badge/Expo-111111?style=for-the-badge&logo=expo)
 
 </div>
 
 <br>
 
-## `$ engineering_mode`
+## What I'm working on
 
 ```text
-I don't want to collect tutorial projects.
+CURRENTLY
 
-I want to build software that forces me to understand:
-
-→ architecture
-→ data flow
-→ networking
-→ databases
-→ performance
-→ deployment
-→ debugging
+01  Build complete projects instead of isolated demos
+02  Go deeper into frontend architecture
+03  Learn databases through real applications
+04  Understand realtime communication and networking
+05  Improve Docker and deployment skills
+06  Move gradually from frontend toward full-stack engineering
 ```
 
 <br>
 
-## `$ github --stats`
+## GitHub
 
 <div align="center">
 
@@ -148,25 +125,52 @@ I want to build software that forces me to understand:
 
 <br>
 
-## `$ roadmap`
+## Now
 
-```text
-[████████░░] Frontend fundamentals
-[███████░░░] TypeScript / React
-[██████░░░░] React Native
-[█████░░░░░] Docker / Deployment
-[████░░░░░░] Databases / Backend
-[███░░░░░░░] System Design / Architecture
-```
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Building
+
+P2P AirDrop
+
+Secure Messenger
+
+</td>
+
+<td width="33%" valign="top">
+
+### Learning
+
+Architecture
+
+PostgreSQL
+
+Docker
+
+Networking
+
+</td>
+
+<td width="33%" valign="top">
+
+### Goal
+
+Ship polished projects.
+
+Understand how they work.
+
+Become a stronger software engineer.
+
+</td>
+</tr>
+</table>
 
 <br>
 
 <div align="center">
 
-```text
-mira973@github:~$ _
-```
-
-<sub>Build → Break → Understand → Refactor → Ship</sub>
+`build → understand → refactor → ship`
 
 </div>
