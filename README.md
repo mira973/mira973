@@ -66,20 +66,14 @@
 ## Tech Stack
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=ts,js,react,postgres,docker,git,vite&theme=dark"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://skillicons.dev/icons?i=ts,js,react,postgres,docker,git,vite&theme=light"
-    >
-    <img
-      src="https://skillicons.dev/icons?i=ts,js,react,postgres,docker,git,vite&theme=dark"
-      alt="TypeScript, JavaScript, React, PostgreSQL, Docker, Git and Vite"
-    >
-  </picture>
+  <img
+    src="https://skillicons.dev/icons?i=ts,js,react,postgres,docker,git,vite&theme=dark#gh-dark-mode-only"
+    alt="Tech Stack"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=ts,js,react,postgres,docker,git,vite&theme=light#gh-light-mode-only"
+    alt="Tech Stack"
+  />
 </p>
 
 <br>
