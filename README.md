@@ -11,12 +11,7 @@
 </p>
 
 <p align="center">
-  <b>Frontend Developer · Intern · Student @ Hexlet College</b>
-</p>
-
-<p align="center">
   Building real projects and gradually moving deeper into Software Engineering.<br>
-  Currently exploring architecture, networking, realtime communication and databases.
 </p>
 
 <br>
@@ -70,10 +65,6 @@
     src="https://skillicons.dev/icons?i=ts,js,react,postgres,docker,git,vite&theme=dark#gh-dark-mode-only"
     alt="Tech Stack"
   />
-  <img
-    src="https://skillicons.dev/icons?i=ts,js,react,postgres,docker,git,vite&theme=light#gh-light-mode-only"
-    alt="Tech Stack"
-  />
 </p>
 
 <br>
@@ -81,11 +72,10 @@
 ## Current Focus
 
 ```text
-01  Building complete projects instead of isolated demos
-02  Going deeper into frontend architecture
-03  Learning realtime communication and networking
-04  Practicing databases through real applications
-05  Improving Docker and deployment skills
+→ building projects that solve real problems
+→ understanding how systems work under the hood
+→ designing cleaner application architecture
+→ turning small ideas into polished products
 ```
 
 <br>
